@@ -1,3 +1,5 @@
+<img width="2501" height="948" alt="Carregando" src="https://github.com/user-attachments/assets/9f48eb7a-45ad-4983-ae2b-860b61dc29df" />
+<img width="2480" height="942" alt="Tela inicial" src="https://github.com/user-attachments/assets/c77c13c4-cdfe-429e-b1b8-8fbf5481b5c4" />
 # CineHome Pro 🎬
 ### Personal Media Streaming Server
 
@@ -23,7 +25,8 @@ O **CineHome Pro** é uma plataforma de streaming autohospedada que transforma s
 1. **Backend:**
    - Acesse a pasta `server/` e renomeie o arquivo `.env.example` para `.env`.
    - Adicione sua própria chave de API do TMDB e os caminhos das pastas onde guarda seus vídeos.
-   - Instale as dependências com `npm install`.
+   - Instale as dependências com `npm install`.<img width="2480" height="942" alt="Tela inicial" src="https://github.com/user-attachments/assets/f2d94861-431a-447e-ac44-a2d30b756f56" />
+
    - Inicie o servidor com o comando `node index.js`.
 
 2. **Frontend:**
