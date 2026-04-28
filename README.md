@@ -36,12 +36,12 @@ O **CineHome Pro** é uma plataforma de streaming autohospedada que transforma s
 Aqui você pode adicionar imagens que demonstram o seu projeto rodando! Salve suas fotos na pasta principal do projeto e troque o nome do arquivo abaixo:
 
 <img width="2480" height="942" alt="Tela inicial" src="https://github.com/user-attachments/assets/c77c13c4-cdfe-429e-b1b8-8fbf5481b5c4" />
+
 > *Tela principal mostrando o catálogo elegante de mídias.*
 
 <img width="2501" height="948" alt="Carregando" src="https://github.com/user-attachments/assets/9f48eb7a-45ad-4983-ae2b-860b61dc29df" />
-> *Player de vídeo rodando sem interrupções com HLS e FFmpeg.*
 
-*(Para adicionar imagens é muito simples, basta arrastar as imagens para dentro do repositório no Github quando estiver editando o README, ou usar a tag Markdown como acima)*
+> *Player de vídeo rodando sem interrupções com HLS e FFmpeg.*
 
 ---
 **Nota Ética:** Este projeto foi desenvolvido apenas para fins de aprendizado e conveniência pessoal para consumo de mídia autohospedada.
