@@ -1,5 +1,3 @@
-<img width="2501" height="948" alt="Carregando" src="https://github.com/user-attachments/assets/9f48eb7a-45ad-4983-ae2b-860b61dc29df" />
-<img width="2480" height="942" alt="Tela inicial" src="https://github.com/user-attachments/assets/c77c13c4-cdfe-429e-b1b8-8fbf5481b5c4" />
 # CineHome Pro 🎬
 ### Personal Media Streaming Server
 
@@ -25,7 +23,7 @@ O **CineHome Pro** é uma plataforma de streaming autohospedada que transforma s
 1. **Backend:**
    - Acesse a pasta `server/` e renomeie o arquivo `.env.example` para `.env`.
    - Adicione sua própria chave de API do TMDB e os caminhos das pastas onde guarda seus vídeos.
-   - Instale as dependências com `npm install`.<img width="2480" height="942" alt="Tela inicial" src="https://github.com/user-attachments/assets/f2d94861-431a-447e-ac44-a2d30b756f56" />
+   - Instale as dependências com `npm install`.
 
    - Inicie o servidor com o comando `node index.js`.
 
@@ -37,10 +35,10 @@ O **CineHome Pro** é uma plataforma de streaming autohospedada que transforma s
 
 Aqui você pode adicionar imagens que demonstram o seu projeto rodando! Salve suas fotos na pasta principal do projeto e troque o nome do arquivo abaixo:
 
-![Tela Inicial - Exemplo](sua_foto_tela_inicial.png)
+<img width="2480" height="942" alt="Tela inicial" src="https://github.com/user-attachments/assets/c77c13c4-cdfe-429e-b1b8-8fbf5481b5c4" />
 > *Tela principal mostrando o catálogo elegante de mídias.*
 
-![Tela do Player - Exemplo](sua_foto_tela_player.png)
+<img width="2501" height="948" alt="Carregando" src="https://github.com/user-attachments/assets/9f48eb7a-45ad-4983-ae2b-860b61dc29df" />
 > *Player de vídeo rodando sem interrupções com HLS e FFmpeg.*
 
 *(Para adicionar imagens é muito simples, basta arrastar as imagens para dentro do repositório no Github quando estiver editando o README, ou usar a tag Markdown como acima)*
